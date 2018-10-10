@@ -1,0 +1,12 @@
+# Here is first comment
+#######################
+#Group 1 of waypoints
+WP1, 39,   -77,    12.3, 2,   50, 552, M
+WP2, 39.01,-77.01, 15,   1.1, 50, 553, S
+WP3, 39.01,-77.01, 15,   1.1, 50, 553, M
+#group 2 - next is a blank line
+
+No-flag,  39.01,-77.01, 15,   1.1, 50, 553
+No-flag-comma, 39.01,-77.01, 16,   1.1, 50, 555,
+#Back to normal - like WP2
+WP2clone, 39.01,-77.01, 15,   1.1, 50, 553, S
